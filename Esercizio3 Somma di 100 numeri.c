@@ -9,7 +9,7 @@ main()
 	scanf("%d",n);
 	I=1; // valore che assegno al contatore 
 	somma=; // valore che assegno alla somma
-	while(I<=n) { // finchè il contatore è minore dei numeri ripetere il ciclo
+	while(I<=n) { // finchÃ¨ il contatore Ã¨ minore dei numeri ripetere il ciclo
 		somma=somma+I; //per eseguire la somma devo fare la somma tra contatore e somma
 		I=I+1; //devo aumentare il contatore di 1
 	}
